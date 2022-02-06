@@ -1,0 +1,22 @@
+#cycle:after {
+  -webkit-animation: cycle 12s infinite;
+  -moz-animation: cycle 12s infinite;
+  -o-animation: cycle 12s infinite;
+  animation: cycle 12s infinite;
+}
+
+@keyframes cycle {
+  0% {
+    content: "Learn about the topics that affect you";
+  }
+  33% {
+    content: "Meet your Reps and make your voice heard";
+  }
+  66% {
+    content: "Stay up to date about the events in your area";
+  }
+  100% {
+    content: "Create a change";
+  }
+}
+

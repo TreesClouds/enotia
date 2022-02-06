@@ -1,0 +1,31 @@
+.card-title {
+  text-decoration: none;
+  color: black;
+}
+
+a:link, a:visited, a:active, a:hover {
+  color: black;
+  box-shadow: none;
+  text-decoration: none;
+}
+
+.enotia-purple {
+  color: #5A2828 !important;
+}
+
+.enotia-beige {
+  color: #EBD0AD;
+}
+
+.enotia-green {
+  color: #58544F !important;
+}
+
+.card-body {
+}
+
+.endorsement {
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
